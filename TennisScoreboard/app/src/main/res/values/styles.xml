@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Headers -->
+    <style name="HeaderText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+    <!-- ScoreButton -->
+    <style name="ScoreButtonText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+    <!-- Scores -->
+    <style name="ScoreText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textColor">#FFEB3B</item>
+        <item name="android:background">@color/colorBlack</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+
+</resources>

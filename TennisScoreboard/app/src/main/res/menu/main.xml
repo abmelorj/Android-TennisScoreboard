@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_reset"
+        android:title="Reset Scoreboard"
+        app:showAsAction="never" />
+
+    <!--
+    - Reset Scoreboard
+    - Game Options
+        - Match length (best-of-three / best-of-five)
+        - Last Set (Tie Break (7) / Super Tie Break (10))
+    - Set Players name
+
+    https://pt.wikipedia.org/wiki/Grand_Slam_de_t%C3%AAnis
+    https://en.wikipedia.org/wiki/Tennis_scoring_system
+        - No-Ad?
+        - Sets with Tie Break?
+        - Advantage Sets?
+        - Last set with Super Tie Break (8 / 10) or Advantage Set?
+    -->
+</menu>
